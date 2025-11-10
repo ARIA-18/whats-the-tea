@@ -1,0 +1,5 @@
+# Ignore datasets and large files
+data/
+*.zip
+*.csv
+*.rar
